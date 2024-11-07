@@ -1,4 +1,4 @@
-## Hello there, I'm Paula Reis 👋
+## Olá, sou Paula Reis 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaulareis&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
